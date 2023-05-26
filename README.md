@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirajmunir10p
-- 👀 I’m interested in UI Test Automation using Selenium with Java and Cypress.
-- 🌱 I’m currently learning Cypress.io
+- 👀 I’m interested in UI Test Automation using Selenium with Java and Playwright JS.
+- 🌱 I’m currently learning RestAssured
 - 💞️ I’m looking to collaborate on projects related to Test Automation. 
 
 <!---
